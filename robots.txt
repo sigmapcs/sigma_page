@@ -8,4 +8,4 @@ Allow: /js/*.js$
 Allow: /img/*.jpg
 Allow: /img/*.png
 Disallow: robots.txt
-Sitemap: http://paginasweb.live/sitemap.xml.
+Sitemap: http://paginasweb.live/sitemap.xml
